@@ -1,0 +1,28 @@
+_repo: A-Voyage-to-the-Moon--13-With-Some-Account-of-the-Manners-and-Customs-Science-and-Philosophy-__10005
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Tucker, George
+    alias: Atterley, Joseph
+    birthdate: 1775
+    deathdate: 1861
+    gutenberg_agent_id: '3263'
+    url: http://www.gutenberg.org/2009/agents/3263
+    wikipedia: http://en.wikipedia.org/wiki/George_Tucker
+description: Cover -- Contents.
+gutenberg_issued: '2003-11-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '10005'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Space flight to the moon -- Fiction'
+- !lcsh 'Science fiction'
+- !lcc 'PS'
+- GITenberg
+title: "A Voyage to the Moon\r\nWith Some Account of the Manners and Customs, Science\
+  \ and Philosophy, of the People of Morosofia, and Other Lunarians"
+url: http://www.gutenberg.org/ebooks/10005
